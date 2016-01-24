@@ -1,0 +1,15 @@
+{
+  "name": "everyblocktext",
+  "version": "1.0.0",
+  "description": "EveryBlockText allows users to text a city name to a phone number and receive information back via text.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Zenun Vucetovic",
+  "license": "ISC",
+  "dependencies": {
+    "request-json": "^0.5.5"
+  }
+}
